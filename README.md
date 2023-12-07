@@ -4,8 +4,8 @@
 |:-----:|:-----:|:--------:|
 |[<img src="https://eecs441.eecs.umich.edu/img/admin/video.png">](https://youtu.be/zfQ5DVqRz34)|[<img src="https://eecs441.eecs.umich.edu/img/admin/wiki.png">](https://github.com/leeteresamaria/RoomieMatter/wiki)|[<img src="https://eecs441.eecs.umich.edu/img/admin/trello.png">](https://trello.com/b/5Bg8azLq/roomiematter441)|
 
-![Elevator Pitch]([.github/images/title_image.png](https://raw.githubusercontent.com/leeteresamaria/RoomieMatter/main/.github/images/title_image.png?token=GHSAT0AAAAAACIEXSK6DSWTCKO3MURSJDICZLRE7PQ)) <!-- MUST be placed in user-images.githubusercontent.com -->
-![Team]([.github/images/team.png](https://raw.githubusercontent.com/leeteresamaria/RoomieMatter/main/.github/images/team.png?token=GHSAT0AAAAAACIEXSK6F4AYJK6LVSXCOEWCZLRE7DA))
+![Elevator Pitch](https://raw.githubusercontent.com/leeteresamaria/RoomieMatter/main/.github/images/title_image.png?token=GHSAT0AAAAAACIEXSK6DSWTCKO3MURSJDICZLRE7PQ) <!-- MUST be placed in user-images.githubusercontent.com -->
+![Team](https://raw.githubusercontent.com/leeteresamaria/RoomieMatter/main/.github/images/team.png?token=GHSAT0AAAAAACIEXSK6F4AYJK6LVSXCOEWCZLRE7DA)
 
 [video_page]: [[https://youtu.be/sample]](https://youtu.be/zfQ5DVqRz34)
 [wiki_page]: [[https://github.com/member/team/wiki](https://github.com/AlexMaskeny/RoomieMatter/wiki)](https://github.com/leeteresamaria/RoomieMatter/wiki)
